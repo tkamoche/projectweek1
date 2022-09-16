@@ -1,13 +1,18 @@
-#project or program name
+## project or program name
 projectweek1
-#author name
+
+## author name
 Daniel Kamoche
-#description of project
+
+## description of project
 An online portfilio for Daniel Kamoche fisrt project
-#project setup instructions
+
+## project setup instructions
 open the repostory in vs code
 open with live server
-#live link
+
+## live link
 https://tkamoche.github.io/projectweek1
-#copyright and license information
+
+## copyright and license information
 (c)2022 Daniel kamoche
