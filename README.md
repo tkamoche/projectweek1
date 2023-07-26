@@ -12,10 +12,12 @@ open the repostory in vs code
 open with live server
 
 ## live link
-https://tkamoche.github.io/projectweek1
+https://tkamoche.github.io/projectweek1/
+https://github.com/tkamoche.io/projectweek1.git
 
 ## personal contacts
 Email:tkamoche@gmail.com
+
 Telphone Number:0725631410
 
 ## copyright and license information
