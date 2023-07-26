@@ -1,36 +1,41 @@
-
 h1 {
-    color: white;
-    text-align: center;
-  }
-  
-h4{
-style="background-color:Blue;    
-
+  text-align: center;
+  background-color: aqua;
+  background-color: beige;
 }
 
-body {
-	background-color: lightblue;
-}
-
-.center {
-	text-align: center;
-	border: 3px solid green;
-}
-
-img {
-	width: 50px;
-	height: 50px;
- border-style: dotted;}
+  img {
 
     background-image: url("paper.gif");
-}
+    
+    
+  }
 
-about-me{
+
+about-me {
     float: right;}
 
     .p3 {
       font-family: "Lucida Console", "Courier New", monospace;
     }
+    
+    body {
+      background-color: lightblue;
+    }
+
+    img {
+      text-align: right;
+      width: 50px;
+      height: 50px;
+     border-style: dotted;
+    }
+
+    h4 {
+      
+      background-color: blue;
+      
+      }
+
+
     
 
