@@ -1,41 +1,98 @@
-h1 {
+body{
+  
+  background-color: rgba(29, 22, 22, 0.075);
+  line-height: 2em;
+  margin: 0%;
+}
+img{
+  float: inline-start;
+}
+footer{
+  height: 70px;
+  width: 100%;
+  background-color: cadetblue;
+  margin: 0%;
+  margin-bottom: 0%;
+  
+}
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
   text-align: center;
-  background-color: aqua;
-  background-color: beige;
+  text-decoration: none;
+}
+.menu{
+  height: 50px;
+  background-color: blue;
+  margin: 0%;
+  text-decoration:none;
+  padding-right: 10px;
+  text-align-last: center;
+}
+.menu a{
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+text-decoration: none;
+text-align: center;
+margin: 10px;
+
+}
+a:hover{
+  color: aliceblue;
+}
+a:active{
+  color: crimson;
+}
+a:visited{
+  color: dimgrey;
+}
+.cont1{
+  text-align: center;
+  
+  width: 60%;
+  background-color: rgb(236, 233, 233);
+  margin: auto;
+
+  /* opacity: 0.5; */
+}
+li{
+  display: block;
+
+}
+ul{
+  list-style-type: square;
+}
+ol{
+  list-style-type: upper-roman;
+}
+.contain{
+  background-color: rgb(163, 157, 157);
+  text-align: auto;
+  margin: auto;
+}
+.img1{
+  text-align: center;
+}
+img{
+  text-align: center;
+  border-radius: 50%;
 }
 
-  img {
+/* Add a hover effect if you want */
+.fa:hover {
+  opacity: 0.7;
+}
 
-    background-image: url("paper.gif");
-    
-    
-  }
+/* Set a specific color for each brand */
 
+/* Facebook */
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
 
-about-me {
-    float: right;}
-
-    .p3 {
-      font-family: "Lucida Console", "Courier New", monospace;
-    }
-    
-    body {
-      background-color: lightblue;
-    }
-
-    img {
-      text-align: right;
-      width: 50px;
-      height: 50px;
-     border-style: dotted;
-    }
-
-    h4 {
-      
-      background-color: blue;
-      
-      }
-
-
-    
-
+/* Twitter */
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
